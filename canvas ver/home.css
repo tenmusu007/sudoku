@@ -1,0 +1,35 @@
+p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+/* .sudoku{
+    display: none;
+} */
+.title h1{
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.rule{
+    margin: 2rem 0rem;
+    display: grid;
+    justify-content: center;
+}
+.rule p{
+    text-align: initial;
+    display: block;
+}
+
+.btn-start{
+    font-size: 30px;
+    background-color: aqua;
+    margin: 3rem;
+    padding: 0.5rem 3rem;
+    display: inline-block;
+    border-radius: 20%;
+}
+.btn-start:hover{
+    background-color: orange;
+}

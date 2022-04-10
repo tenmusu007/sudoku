@@ -1,0 +1,28 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+/* td{
+    border: 1px solid black;
+} */
+.n1.c3, .m1c6,
+.n2.c3, .n2.c6,
+.n3.c3, .m3.c6,
+.n4.c3, .n4.c6,
+.n5.c3, .m5.c6,
+.n6.c3, .n6.c6,
+.n7.c3, .n7.c6,
+.n8.c3, .n8.c6,
+.n9.c3, .m9.c6{
+    margin-right: 10px;
+}
+.n3 ,.n6{
+    margin-bottom: 10px;
+}
+
+input{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
